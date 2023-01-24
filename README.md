@@ -7,6 +7,8 @@
 ## Getting started
 - This project can accessed using this link:
 
+   
+    https://phase-2-code-challenge-2.vercel.app/
 
 - Git clone into this repository:
 

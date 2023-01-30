@@ -21,7 +21,7 @@ function App() {
   }
 
   useEffect(() => {
-    fetch('http://localhost:8001/bots')
+    fetch('https://json-server-vercel-2-xi.vercel.app/bots')
       .then(res => res.json())
       .then((res) => {
         setBots(res)
